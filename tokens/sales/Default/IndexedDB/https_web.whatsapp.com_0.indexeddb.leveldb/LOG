@@ -1,0 +1,87 @@
+2024/04/11-11:37:10.755 c28 Reusing MANIFEST C:\Users\dev02\OneDrive\Área de Trabalho\wpp\tokens\sales\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/11-11:37:10.756 c28 Recovering log #2019
+2024/04/11-11:37:10.799 c28 Reusing old log C:\Users\dev02\OneDrive\Área de Trabalho\wpp\tokens\sales\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002019.log 
+2024/04/11-11:37:21.122 1cc4 Level-0 table #2037: started
+2024/04/11-11:37:21.137 1cc4 Level-0 table #2037: 322396 bytes OK
+2024/04/11-11:37:21.139 1cc4 Delete type=0 #2019
+2024/04/11-11:37:21.140 c28 Manual compaction at level-0 from '\x00\xa2\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa3\x00\x00\x00' @ 0 : 0; will stop at '\x00\xa3\x00\x00\x05' @ 8992255 : 1
+2024/04/11-11:37:21.140 c28 Compacting 1@0 + 0@1 files
+2024/04/11-11:37:21.152 c28 Generated table #2038@0: 11303 keys, 170699 bytes
+2024/04/11-11:37:21.154 c28 Generated table #2039@0: 680 keys, 13776 bytes
+2024/04/11-11:37:21.154 c28 Compacted 1@0 + 0@1 files => 184475 bytes
+2024/04/11-11:37:21.155 c28 compacted to: files[ 0 2 12 0 0 0 0 ]
+2024/04/11-11:37:21.156 c28 Delete type=2 #2037
+2024/04/11-11:37:21.156 c28 Manual compaction at level-0 from '\x00\xa3\x00\x00\x05' @ 8992255 : 1 .. '\x00\xa3\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/11-11:37:21.160 c28 Level-0 table #2041: started
+2024/04/11-11:37:21.164 c28 Level-0 table #2041: 446 bytes OK
+2024/04/11-11:37:21.165 c28 Delete type=0 #2036
+2024/04/11-11:37:21.166 c28 Manual compaction at level-0 from '\x00\xa3\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa4\x00\x00\x00' @ 0 : 0; will stop at '\x00\xa3\x00\x00\x05' @ 8992288 : 0
+2024/04/11-11:37:21.166 c28 Compacting 1@0 + 2@1 files
+2024/04/11-11:37:21.174 c28 Generated table #2042@0: 11307 keys, 170830 bytes
+2024/04/11-11:37:21.177 c28 Generated table #2043@0: 678 keys, 13756 bytes
+2024/04/11-11:37:21.177 c28 Compacted 1@0 + 2@1 files => 184586 bytes
+2024/04/11-11:37:21.178 c28 compacted to: files[ 0 2 12 0 0 0 0 ]
+2024/04/11-11:37:21.179 c28 Delete type=2 #2041
+2024/04/11-11:37:21.179 c28 Manual compaction at level-0 from '\x00\xa3\x00\x00\x05' @ 8992288 : 0 .. '\x00\xa4\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/11-11:37:22.069 c28 Compacting 1@1 + 10@2 files
+2024/04/11-11:37:22.153 c28 Generated table #2044@1: 40747 keys, 2216623 bytes
+2024/04/11-11:37:22.193 c28 Generated table #2045@1: 3854 keys, 2156380 bytes
+2024/04/11-11:37:22.244 c28 Generated table #2046@1: 3773 keys, 2161051 bytes
+2024/04/11-11:37:22.278 c28 Generated table #2047@1: 3947 keys, 2153517 bytes
+2024/04/11-11:37:22.339 c28 Generated table #2048@1: 30599 keys, 2233947 bytes
+2024/04/11-11:37:22.399 c28 Generated table #2049@1: 31533 keys, 2245819 bytes
+2024/04/11-11:37:22.435 c28 Generated table #2050@1: 8130 keys, 2130216 bytes
+2024/04/11-11:37:22.495 c28 Generated table #2051@1: 79594 keys, 2225052 bytes
+2024/04/11-11:37:22.566 c28 Generated table #2052@1: 105796 keys, 2255995 bytes
+2024/04/11-11:37:22.635 c28 Generated table #2053@1: 104790 keys, 2255741 bytes
+2024/04/11-11:37:22.640 c28 Generated table #2054@1: 3433 keys, 76312 bytes
+2024/04/11-11:37:22.640 c28 Compacted 1@1 + 10@2 files => 22110653 bytes
+2024/04/11-11:37:22.642 c28 compacted to: files[ 0 1 13 0 0 0 0 ]
+2024/04/11-11:37:22.642 c28 Delete type=2 #2023
+2024/04/11-11:37:22.642 c28 Delete type=2 #2024
+2024/04/11-11:37:22.642 c28 Delete type=2 #2025
+2024/04/11-11:37:22.642 c28 Delete type=2 #2026
+2024/04/11-11:37:22.642 c28 Delete type=2 #2027
+2024/04/11-11:37:22.642 c28 Delete type=2 #2028
+2024/04/11-11:37:22.642 c28 Delete type=2 #2029
+2024/04/11-11:37:22.642 c28 Delete type=2 #2030
+2024/04/11-11:37:22.643 c28 Delete type=2 #2031
+2024/04/11-11:37:22.643 c28 Delete type=2 #2032
+2024/04/11-11:37:22.643 c28 Delete type=2 #2038
+2024/04/11-11:37:22.643 c28 Delete type=2 #2039
+2024/04/11-11:37:22.643 c28 Delete type=2 #2042
+2024/04/11-11:40:23.398 5920 Level-0 table #2056: started
+2024/04/11-11:40:23.461 5920 Level-0 table #2056: 1168686 bytes OK
+2024/04/11-11:40:23.465 5920 Delete type=0 #2040
+2024/04/11-11:40:33.272 5920 Compacting 1@0 + 1@1 files
+2024/04/11-11:40:33.345 5920 Generated table #2057@0: 18965 keys, 479044 bytes
+2024/04/11-11:40:33.352 5920 Generated table #2058@0: 789 keys, 16773 bytes
+2024/04/11-11:40:33.352 5920 Compacted 1@0 + 1@1 files => 495817 bytes
+2024/04/11-11:40:33.354 5920 compacted to: files[ 0 2 13 0 0 0 0 ]
+2024/04/11-11:40:33.355 5920 Delete type=2 #2043
+2024/04/11-11:40:33.355 5920 Delete type=2 #2056
+2024/04/11-11:40:35.813 1cc4 Compacting 1@1 + 10@2 files
+2024/04/11-11:40:35.867 1cc4 Generated table #2059@1: 45887 keys, 2225306 bytes
+2024/04/11-11:40:35.912 1cc4 Generated table #2060@1: 3494 keys, 2152733 bytes
+2024/04/11-11:40:35.967 1cc4 Generated table #2061@1: 3811 keys, 2161351 bytes
+2024/04/11-11:40:36.023 1cc4 Generated table #2062@1: 3914 keys, 2153239 bytes
+2024/04/11-11:40:36.112 1cc4 Generated table #2063@1: 27342 keys, 2221689 bytes
+2024/04/11-11:40:36.242 1cc4 Generated table #2064@1: 32492 keys, 2246280 bytes
+2024/04/11-11:40:36.289 1cc4 Generated table #2065@1: 10162 keys, 2148588 bytes
+2024/04/11-11:40:36.368 1cc4 Generated table #2066@1: 66848 keys, 2208369 bytes
+2024/04/11-11:40:36.501 1cc4 Generated table #2067@1: 105296 keys, 2255644 bytes
+2024/04/11-11:40:36.666 1cc4 Generated table #2068@1: 105358 keys, 2255762 bytes
+2024/04/11-11:40:36.683 1cc4 Generated table #2069@1: 14196 keys, 308094 bytes
+2024/04/11-11:40:36.683 1cc4 Compacted 1@1 + 10@2 files => 22337055 bytes
+2024/04/11-11:40:36.684 1cc4 compacted to: files[ 0 1 14 0 0 0 0 ]
+2024/04/11-11:40:36.685 1cc4 Delete type=2 #2044
+2024/04/11-11:40:36.685 1cc4 Delete type=2 #2045
+2024/04/11-11:40:36.685 1cc4 Delete type=2 #2046
+2024/04/11-11:40:36.685 1cc4 Delete type=2 #2047
+2024/04/11-11:40:36.685 1cc4 Delete type=2 #2048
+2024/04/11-11:40:36.685 1cc4 Delete type=2 #2049
+2024/04/11-11:40:36.685 1cc4 Delete type=2 #2050
+2024/04/11-11:40:36.685 1cc4 Delete type=2 #2051
+2024/04/11-11:40:36.685 1cc4 Delete type=2 #2052
+2024/04/11-11:40:36.685 1cc4 Delete type=2 #2053
+2024/04/11-11:40:36.686 1cc4 Delete type=2 #2057

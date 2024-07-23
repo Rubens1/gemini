@@ -1,0 +1,40 @@
+2024/04/11-11:16:54.044 2d00 Reusing MANIFEST C:\Users\dev02\OneDrive\Área de Trabalho\wpp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/11-11:16:54.048 2d00 Recovering log #5484
+2024/04/11-11:16:54.061 2d00 Reusing old log C:\Users\dev02\OneDrive\Área de Trabalho\wpp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/005484.log 
+2024/04/11-11:17:04.239 465c Level-0 table #5501: started
+2024/04/11-11:17:04.245 465c Level-0 table #5501: 84576 bytes OK
+2024/04/11-11:17:04.247 465c Delete type=0 #5484
+2024/04/11-11:17:04.248 465c Manual compaction at level-0 from ' "\x03\x00\x00\x00' @ 72057594037927935 : 1 .. ' #\x03\x00\x00\x00' @ 0 : 0; will stop at ' "\x03\x00\x00\x05' @ 19614733 : 1
+2024/04/11-11:17:04.249 465c Compacting 1@0 + 1@1 files
+2024/04/11-11:17:04.256 465c Generated table #5502@0: 2407 keys, 51751 bytes
+2024/04/11-11:17:04.259 465c Generated table #5503@0: 299 keys, 6892 bytes
+2024/04/11-11:17:04.259 465c Compacted 1@0 + 1@1 files => 58643 bytes
+2024/04/11-11:17:04.261 465c compacted to: files[ 0 2 12 0 0 0 0 ]
+2024/04/11-11:17:04.262 465c Delete type=2 #5501
+2024/04/11-11:17:04.262 465c Manual compaction at level-0 from ' "\x03\x00\x00\x05' @ 19614733 : 1 .. ' #\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/11-11:17:05.298 5f80 Compacting 1@1 + 7@2 files
+2024/04/11-11:17:05.376 5f80 Generated table #5504@1: 39357 keys, 2217623 bytes
+2024/04/11-11:17:05.426 5f80 Generated table #5505@1: 3883 keys, 2157942 bytes
+2024/04/11-11:17:05.463 5f80 Generated table #5506@1: 3661 keys, 2161079 bytes
+2024/04/11-11:17:05.497 5f80 Generated table #5507@1: 3861 keys, 2154613 bytes
+2024/04/11-11:17:05.568 5f80 Generated table #5508@1: 28996 keys, 2228984 bytes
+2024/04/11-11:17:05.658 5f80 Generated table #5509@1: 35145 keys, 2248038 bytes
+2024/04/11-11:17:05.697 5f80 Generated table #5510@1: 9012 keys, 2141012 bytes
+2024/04/11-11:17:05.699 5f80 Generated table #5511@1: 54 keys, 15060 bytes
+2024/04/11-11:17:05.699 5f80 Compacted 1@1 + 7@2 files => 15324351 bytes
+2024/04/11-11:17:05.701 5f80 compacted to: files[ 0 1 13 0 0 0 0 ]
+2024/04/11-11:17:05.702 5f80 Delete type=2 #5487
+2024/04/11-11:17:05.703 5f80 Delete type=2 #5488
+2024/04/11-11:17:05.703 5f80 Delete type=2 #5489
+2024/04/11-11:17:05.703 5f80 Delete type=2 #5490
+2024/04/11-11:17:05.703 5f80 Delete type=2 #5491
+2024/04/11-11:17:05.703 5f80 Delete type=2 #5492
+2024/04/11-11:17:05.703 5f80 Delete type=2 #5493
+2024/04/11-11:17:05.703 5f80 Delete type=2 #5494
+2024/04/11-11:17:05.703 5f80 Delete type=2 #5502
+2024/04/11-11:17:13.164 5f80 Compacting 1@1 + 1@2 files
+2024/04/11-11:17:13.199 5f80 Generated table #5512@1: 16875 keys, 370025 bytes
+2024/04/11-11:17:13.199 5f80 Compacted 1@1 + 1@2 files => 370025 bytes
+2024/04/11-11:17:13.200 5f80 compacted to: files[ 0 0 13 0 0 0 0 ]
+2024/04/11-11:17:13.201 5f80 Delete type=2 #5482
+2024/04/11-11:17:13.201 5f80 Delete type=2 #5503
