@@ -38,10 +38,8 @@ app.use(express.json());
 
 app.post('/check-ai', async (req, res) => {
   try {
-    // Verificar se a AI está conectada e pode enviar mensagens
     const responseFromAI = await mainGoogle(req.body.texto);
 
-    // Se a resposta da AI for recebida com sucesso, enviar uma resposta de sucesso
     if (responseFromAI) {
       console.log(responseFromAI);
       res.status(200).json({ success: true, message: responseFromAI });
