@@ -24,6 +24,7 @@ const mainGoogle = async (texto) => {
     const text = response.text();
 
     return text;
+    
   } catch (error) {
     console.error("Erro ao iniciar a conversa com a AI:", error);
     throw error;
