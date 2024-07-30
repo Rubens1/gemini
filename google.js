@@ -1,6 +1,6 @@
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 
-const genAI = new GoogleGenerativeAI("AIzaSyC-JrHaqiHunKf4EPwLGi_LyjTUAbnguXQ");
+const genAI = new GoogleGenerativeAI("CHAVE_GEMINI");
 const model = genAI.getGenerativeModel({ model: 'gemini-pro' });
 
 export const mainGoogle = async (texto) => {
@@ -20,7 +20,7 @@ export const mainGoogle = async (texto) => {
     const text = response.text();
 
     return text;
-    
+
   } catch (error) {
     console.error("Erro ao iniciar a conversa com a AI:", error);
     throw error;
