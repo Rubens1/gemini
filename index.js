@@ -26,8 +26,10 @@ const mainGoogle = async (texto) => {
     return text;
     
   } catch (error) {
+
     console.error("Erro ao iniciar a conversa com a AI:", error);
     throw error;
+
   }
 };
 
@@ -63,5 +65,5 @@ app.post('/check-ai', async (req, res) => {
 
 
 app.listen(PORT, () => {
-  console.log(`Servidor escutando na porta ${PORT}`);
+  console.log(`Servidor ligado na porta ${PORT}`);
 });
